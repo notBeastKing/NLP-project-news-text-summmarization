@@ -1,0 +1,12 @@
+beautifulsoup4
+textblob
+newspaper3k
+requests
+nltk
+scikit-learn
+pandas
+streamlit
+gTTS
+transformers
+lxml
+lxml_html_clean
